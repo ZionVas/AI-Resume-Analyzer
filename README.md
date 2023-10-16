@@ -31,7 +31,7 @@ Plotly,
 NLTK
 # Features
 
-* Client: -
+# Client: -
 Fetching Location and Miscellaneous Data
 
 Using Parsing Techniques to fetch
@@ -51,3 +51,29 @@ Resume tips and ideas
 Overall Score
 Interview & Resume tip videos
 
+# Admin: -
+Get all applicant’s data into tabular format
+
+Download user’s data into csv file
+
+View all saved uploaded pdf in Uploaded Resume folder
+
+Get user feedback and ratings
+
+Pie Charts for: -
+
+Ratings
+
+Predicted field / roles
+
+Experience level
+
+Resume score
+
+User count
+
+City
+
+State
+
+Country
