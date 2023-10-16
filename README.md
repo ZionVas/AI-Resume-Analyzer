@@ -29,5 +29,25 @@ pyresparser,
 pdfminer3,
 Plotly,
 NLTK
-  
+# Features
+
+* Client: -
+Fetching Location and Miscellaneous Data
+
+Using Parsing Techniques to fetch
+
+Basic Info
+
+Skills
+
+Keywords
+
+Using logical programs, it will recommend
+
+Skills that can be added
+Predicted job role
+Course and certificates
+Resume tips and ideas
+Overall Score
+Interview & Resume tip videos
 
