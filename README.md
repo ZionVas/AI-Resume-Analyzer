@@ -13,7 +13,7 @@ v. Also, to get analytics for roles which users are mostly looking for
 
 vi. To improve this tool by getting feedbacks
 # Tech Stack
-* Frontend
+* Frontend - 
 Streamlit
 HTML
 CSS
