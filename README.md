@@ -77,3 +77,9 @@ City
 State
 
 Country
+
+# Feedback: -
+Form filling
+Rating from 1 – 5
+Show overall ratings pie chart
+Past user comments history
