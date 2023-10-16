@@ -14,7 +14,20 @@ v. Also, to get analytics for roles which users are mostly looking for
 vi. To improve this tool by getting feedbacks
 # Tech Stack
 * Frontend - 
-Streamlit
-HTML
-CSS
+Streamlit,
+HTML,
+CSS,
 JavaScript
+* Backend -
+Streamlit,
+Python
+* Database -
+  MySQL
+* Modules -
+  pandas,
+pyresparser,
+pdfminer3,
+Plotly,
+NLTK
+  
+
