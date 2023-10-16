@@ -84,8 +84,8 @@ Rating from 1 – 5
 Show overall ratings pie chart
 Past user comments history
 
-# Screenshots
-* user
+# User Screenshots
+
 ![3-recom](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/225a66e7-51da-48d7-8f41-b9f9960caafd)
 
 
@@ -94,3 +94,19 @@ Past user comments history
 ![5-tipsscore](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/353b5667-b146-487d-b284-3b033e34a0f2)
 
 ![6-recom](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/434eb4e1-5b5a-4a19-bb5b-045016f29c10)
+
+# Feedback Screenshots
+
+![2-analytics](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/3e81a769-f581-4c02-b813-3faeb04e3014)
+
+# Admin Screenshots
+
+![2-user-data](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/ebb898e7-d0d6-4075-9b62-fc607cca87df)
+
+![4-feed-data](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/7c2d116b-b482-4411-96ef-6d9645d5e58b)
+
+![5-pieexp](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/c6e6c651-b598-4c42-924f-b432515d6cc8)
+
+![6-piescre](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/ec1f9aed-2589-44b1-b89a-87a1c6549b38)
+
+![7-pielocation](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/c25a5a44-9903-4d6f-9598-b04f29084fb4)
