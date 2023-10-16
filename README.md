@@ -83,3 +83,14 @@ Form filling
 Rating from 1 – 5
 Show overall ratings pie chart
 Past user comments history
+
+# Screenshots
+* user
+![3-recom](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/225a66e7-51da-48d7-8f41-b9f9960caafd)
+
+
+![4-recom](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/c7d461dd-57df-47a6-b15e-9333fd0d748c)
+
+![5-tipsscore](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/353b5667-b146-487d-b284-3b033e34a0f2)
+
+![6-recom](https://github.com/ZionVas/AI-Resume-Analyzer/assets/148045925/434eb4e1-5b5a-4a19-bb5b-045016f29c10)
